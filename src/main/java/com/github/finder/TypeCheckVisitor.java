@@ -1,5 +1,10 @@
 package com.github.finder;
 
+/**
+ * ファイルの種類で検査を行うための Visitor オブジェクト．
+ * 
+ * @author Haruaki Tamada
+ */
 public class TypeCheckVisitor extends Visitor {
     private String type;
 

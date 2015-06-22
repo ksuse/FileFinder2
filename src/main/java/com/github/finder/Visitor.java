@@ -1,5 +1,10 @@
 package com.github.finder;
 
+/**
+ * 基本となるVisitorオブジェクト．
+ * 
+ * @author Haruaki Tamada
+ */
 public abstract class Visitor {
     /**
      * 引数で受け取ったファイルが条件のファイルであれば，trueを返す．

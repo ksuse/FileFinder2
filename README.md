@@ -1,7 +1,12 @@
 # 2015年度 ソフトウェア工学II 第12回 デザインパターン
 
 [FileFinder](http://github.com/ksuse/FileFinder)と同じ題材を
-デザインパターンをふんだんに使って作ってみたプロジェクト．
+デザインパターンを使って作ってみたプロジェクト．
+
+なお，[FileFinder](http://github.com/ksuse/FileFinder)で出された宿題の
+参考としては，このプロジェクトは役立ちません．[FileFinder](http://github.com/ksuse/FileFinder)の
+Issue にプログラムの断片がありますので，そちらを参照して下さい．
+このプロジェクトのソースコードを参考にした場合，そのチームの宿題は未提出として扱います．
 
 以下のデザインパターンを利用している．
 
